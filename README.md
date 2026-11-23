@@ -1,6 +1,6 @@
 # APT29 Threat Profile and ATT&CK Mapping / Профиль угрозы APT29 и маппинг ATT&CK
 
-## 🇬🇧 English Version
+## EU English Version
 
 ### Overview
 This repository contains an independent Threat Intelligence research project focused on the **APT29** threat group (also known as Cozy Bear, Midnight Blizzard, NOBELIUM). 
@@ -31,7 +31,7 @@ The report provides actionable defense strategies, including:
 
 ---
 
-## 🇷🇺 Русская версия
+## RU Русская версия
 
 ### Описание проекта
 Данный репозиторий содержит независимое исследование в области Threat Intelligence, посвященное анализу группировки **APT29** (также известной как Cozy Bear, Midnight Blizzard, NOBELIUM).
